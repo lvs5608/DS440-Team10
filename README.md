@@ -12,7 +12,7 @@ The identification and cropping of giraffe photos using Machine Learning techniq
    Download: https://web.archive.org/web/20170602093944/http://cs.rpi.edu/hotspotter/
    User Guide: http://cs.rpi.edu/hotspotter/HotSpotterUserGuide.pdf
 
-For now, we believe HotSpotter is a better tool.
+   For now, we believe HotSpotter is a better tool.
 
 
 ## Other Sources:
