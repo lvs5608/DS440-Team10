@@ -1,5 +1,5 @@
 # DS440-Team10
-The identification and cropping of giraffe photos using Machine Learning techniques
+Topic: Identification on Masai Giraffe Individuals
 
 
 ## Tools:
@@ -24,3 +24,19 @@ The identification and cropping of giraffe photos using Machine Learning techniq
    And, the IBEIS toolkit was originally a wrapper around HotSpotter.
    - GitHub: https://github.com/WildMeOrg/wildbook-ia
    - API: https://wildmeorg.github.io/wildbook-ia/
+
+
+## Dataset:
+1. preprocessed ROIs:
+	https://drive.google.com/drive/folders/1s27I_WDurQ8pLsZEtv-njfkoFGugPugP?usp=sharing
+	
+2. negative npy results: 
+	https://drive.google.com/drive/folders/1TO2Umnx_oEPTACoibKIk02Yaxg1bIJOg?usp=sharing
+	
+3. positive npy results:
+	https://drive.google.com/drive/folders/1yNqN6G4D2QQKkrsyg7efDR3rYAhSGtUg?usp=sharing
+	
+4. concatenated training & test data
+	https://drive.google.com/drive/folders/1XB-1_ugUWpcti2nHw8qqlOsFhxsFUTxe?usp=sharing
+	
+	
